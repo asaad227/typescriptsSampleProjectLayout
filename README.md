@@ -14,6 +14,10 @@ npm init -y
 
 npm install typescript --save-dev
 
+for globally install command
+
+npm install -g typescript --save-dev
+
 5. Create a tsconfig.json file: In the project directory, create a tsconfig.json file that will serve as the TypeScript configuration file. You can create an empty file and add the necessary configuration options.
 
 Here's a basic example:
