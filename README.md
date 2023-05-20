@@ -41,7 +41,10 @@ This configuration specifies that the TypeScript compiler should target ECMAScri
 
 8. Build and run the TypeScript code: In the terminal, run the following command to compile your TypeScript code:
 
-npx tsc
+### npx tsc
+if globally install  
+
+### tsc
 
 This will invoke the TypeScript compiler (tsc) and compile the TypeScript files based on the configuration in the tsconfig.json file. The compiled JavaScript files will be placed in the "dist" directory.
 
